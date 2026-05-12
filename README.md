@@ -38,4 +38,3 @@
 ## 📊 GitHub Stats
 ![Streak](https://streak-stats.demolab.com?user=Nbks&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nbks&theme=tokyo-night)
-![Metrics](https://metrics.lecoq.io/Nbks?template=classic&theme=tokyonight)
