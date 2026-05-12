@@ -29,10 +29,12 @@
 ## 📂 Projects
 
 - 🚀 **[Launch](https://github.com/Nbks/launch)**  
-  Simple CLI tool to manage and open development projects efficiently  
+  Simple CLI tool to manage and open development projects efficiently
+- 🧑‍🏫 **[English-coach](https://github.com/Nbks/english-coach)**
+  AI-powered daily journaling for English speaking practice
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nbks&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nbks&show_icons=true&theme=tokyonight&cache_seconds=1800)
