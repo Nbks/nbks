@@ -30,7 +30,7 @@
 
 - 🚀 **[Launch](https://github.com/Nbks/launch)**  
   Simple CLI tool to manage and open development projects efficiently
-- 🧑‍🏫 **[English-coach](https://github.com/Nbks/english-coach)**
+- 🧑‍🏫 **[English-coach](https://github.com/Nbks/english-coach)**  
   AI-powered daily journaling for English speaking practice
 
 ---
