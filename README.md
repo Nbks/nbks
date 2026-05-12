@@ -37,4 +37,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nbks&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://metrics.lecoq.io/Nbks?template=classic&theme=tokyonight)
