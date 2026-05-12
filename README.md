@@ -37,4 +37,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://metrics.lecoq.io/Nbks?template=classic&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nbks&theme=tokyo-night)
